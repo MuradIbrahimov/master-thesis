@@ -1,0 +1,35 @@
+{
+  "return_column": "brent_return_pct",
+  "return_units": "percentage points; 100*log(P_t/P_previous observed)",
+  "last_common_date": "2026-10-26",
+  "sample_counts": {
+    "train": 3699,
+    "test": 1712,
+    "validation": 999
+  },
+  "gap_over_3_calendar_days": {
+    "test": 37,
+    "train": 167,
+    "validation": 16
+  },
+  "gap_over_5_calendar_days": {
+    "test": 0,
+    "train": 25,
+    "validation": 1
+  },
+  "max_gap_calendar_days": {
+    "test": 5,
+    "train": 11,
+    "validation": 6
+  },
+  "max_to_complete_case_loss": 85,
+  "gpr_lag": "previous calendar day; historical revised series, release timing unverified",
+  "vix_lag": "previous nonmissing VIX observation, strictly earlier than target return",
+  "stage04_observation_equation": "Gaussian, switching intercept and variance, two states for M1/M3/M4/M5",
+  "stage03_audit": "same 3699 training observations in original comparison and corrected normal/t GARCH; 2000-2002 coverage 197/189/188",
+  "stage04_transition_orientation": "statsmodels: destination x origin x time; converted to origin x destination",
+  "unresolved": [
+    "Irregular observed-price intervals are treated as one observation in the daily return model.",
+    "Revised GPR history has no verified real-time release vintage."
+  ]
+}

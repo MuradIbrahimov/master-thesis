@@ -1,0 +1,5 @@
+series,original_rows,first_raw_date,last_raw_date,invalid_dates,duplicate_dates,raw_missing_values,raw_nonnumeric_nonblank,window_rows,window_missing_values,window_negative_values,window_zero_values,window_usable_values,weekend_date_rows,median_date_gap_days,maximum_date_gap_days
+Brent,10290,1987-05-20,2026-10-27,0,0,1173,0,6996,501,0,0,6495,0,1.0,3.0
+WTI,10649,1986-01-02,2026-10-27,0,0,1117,0,6996,650,1,0,6345,0,1.0,3.0
+VIX,9608,1990-01-02,2026-10-29,0,0,302,0,6996,218,0,0,6778,0,1.0,3.0
+GPR,15274,1985-01-01,2026-10-26,0,0,0,0,9796,0,0,1,9796,2800,1.0,1.0

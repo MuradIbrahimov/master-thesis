@@ -1,0 +1,7 @@
+period,model,seed,valid,log_likelihood,warning_count,warnings,error
+original_audit,M4,41,True,-8029.99710795,0,,
+original_audit,M4,67,True,-8029.99710672,0,,
+original_audit,M4,103,True,-8029.99710677,0,,
+original_audit,M5,41,True,-8025.59062601,0,,
+original_audit,M5,67,True,-8025.59062192,0,,
+original_audit,M5,103,True,-8025.59063334,0,,

@@ -1,0 +1,8 @@
+series,test,lags,statistic,p_value
+standardized residual,Ljung-Box,5,8.104793491,0.150554035
+standardized residual,Ljung-Box,10,11.59711046,0.3129246446
+standardized residual,Ljung-Box,20,27.60807429,0.1190065419
+squared standardized residual,Ljung-Box,5,29.69713025,1.691742963e-05
+squared standardized residual,Ljung-Box,10,33.54866193,0.0002201801875
+squared standardized residual,Ljung-Box,20,48.13509153,0.0004072194986
+standardized residual,ARCH-LM,10,35.11067247,0.0001195495868

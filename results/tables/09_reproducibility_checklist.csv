@@ -1,0 +1,12 @@
+item,status,evidence
+Source and processed data,passed,Input SHA-256 ledger and Stage 01/05 return assertions
+Missing-data and return-interval rules,passed with qualification,"Raw weekday blanks, previous-observed-price return rule and 09 interval ledger; holiday cause unverified"
+Sample chronology and common dates,passed,Stage 05 and 09 forecast assertions
+Model parameter order and transition orientation,passed,Analytic reconstruction and filter recursion
+Filtered forecast states,passed,Independent posterior/next-prior recurrence
+Random seeds and settings,passed,Stage 05 metadata and Stage 09 constants
+Warnings and failed fits,reported,Stage 09 attempt ledgers; legacy Stage 04/05 ledgers retained
+Software versions,passed,Stage 09 environment manifest
+Saved figures and manuscript table/figure links,passed,09 figure integrity and Stage 08 local-link ledgers
+Relative project paths,passed,Code resolves from Path(__file__)
+Historical GPR point-in-time vintages 2000–2019,unavailable,Official archive listing starts 2022-02-24

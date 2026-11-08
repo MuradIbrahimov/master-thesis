@@ -1,0 +1,7 @@
+column,meaning,construction,file
+GPRD,Original broad daily GPR (Stages 01–06),10-newspaper recent keyword index; revised daily XLS,data_gpr_daily_recent.xls
+GPR_AI,General AI-GPR,Intensity-weighted LLM scores divided by all articles in 3 newspapers,ai_gpr_data_daily.csv
+GPR_OIL,Oil GPR,"LLM-classified geopolitical oil/energy supply disruption articles, weighted by GPR intensity",ai_gpr_data_daily.csv
+GPR_OIL_THREATS,Oil Threats GPR,Oil disruption articles classified as threats or both threats and acts,ai_gpr_data_daily.csv
+GPR_OIL_ACTS,Oil Acts GPR,Oil disruption articles classified as acts or both threats and acts,ai_gpr_data_daily.csv
+GPR_AER,Source-matched keyword GPR,Proximity keyword method applied to same 3 newspapers as AI-GPR,ai_gpr_data_daily.csv

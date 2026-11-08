@@ -1,0 +1,2 @@
+period,model,n,qlike,mse,log_score,mae
+gpr_7_calendar_day_proxy_validation,M5,999,2.44519129365,89.674515092,2.1321732333,5.20277435749

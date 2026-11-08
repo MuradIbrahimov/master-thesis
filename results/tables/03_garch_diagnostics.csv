@@ -1,0 +1,11 @@
+,value
+log_likelihood,-7943.749849728605
+aic,15895.49969945721
+bic,15920.36297062454
+convergence_flag,0
+alpha_plus_beta,0.9999999995654582
+omega_positive,True
+alpha_nonnegative,True
+beta_nonnegative,True
+alpha_plus_beta_lt_1,True
+near_unit_persistence,True

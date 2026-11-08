@@ -1,0 +1,4 @@
+sample,observations,first_date,last_date,train,validation,test
+brent_max,6495,2000-01-04,2026-10-26,3750,1020,1725
+brent_complete_case,6410,2000-01-04,2026-10-26,3699,999,1712
+wti_robustness,6336,2000-01-04,2026-10-26,3633,1000,1703

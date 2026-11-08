@@ -1,0 +1,23 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "pandas": "3.0.1",
+  "scipy": "1.18.1",
+  "statsmodels": "0.15.0",
+  "arch": "8.0.0",
+  "seeds_stage05": [
+    41,
+    67,
+    103
+  ],
+  "markov_settings_stage05": {
+    "em_iter": 8,
+    "search_reps": 6,
+    "search_iter": 8,
+    "maxiter": 300,
+    "disp": false
+  },
+  "audit_seed": 9092026,
+  "parametric_bootstrap_attempts_per_experiment": 120,
+  "parametric_bootstrap_maxiter": 140
+}

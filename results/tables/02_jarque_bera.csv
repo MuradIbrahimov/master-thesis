@@ -1,0 +1,3 @@
+oil,test_statistic,p_value,p_display,training_skewness,training_excess_kurtosis,interpretation
+Brent,5652.97644,0,<1e-300 (underflow),-0.3388857599,5.986202869,Reject normality
+WTI,7835.994001,0,<1e-300 (underflow),-0.5126880036,7.132904673,Reject normality

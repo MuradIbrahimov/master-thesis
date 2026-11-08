@@ -1,0 +1,7 @@
+model,states,seed,log_likelihood,converged,finite,positive_variances,iterations,warning_count,warnings,error
+M1,2,41,-8042.62573,True,True,True,,0,,
+M1,2,67,-8042.625712,True,True,True,,0,,
+M1,2,103,-8042.625714,True,True,True,,0,,
+M2,3,41,-7903.820577,True,True,True,,0,,
+M2,3,67,-7903.820945,True,True,True,,0,,
+M2,3,103,-7903.821514,True,True,True,,0,,

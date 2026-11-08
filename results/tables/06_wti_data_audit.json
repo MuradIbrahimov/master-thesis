@@ -1,0 +1,17 @@
+{
+  "observed_price_rows_in_window": 6346,
+  "valid_positive_price_log_returns": 6344,
+  "complete_case_returns": 6336,
+  "valid_returns_excluded_by_predictor_complete_cases": 8,
+  "undefined_nonpositive_price_return_dates": [
+    "2020-04-20",
+    "2020-04-21"
+  ],
+  "split_counts": {
+    "train": 3633,
+    "test": 1703,
+    "validation": 1000
+  },
+  "maximum_calendar_gap_days": 8,
+  "gaps_over_3_calendar_days": 324
+}

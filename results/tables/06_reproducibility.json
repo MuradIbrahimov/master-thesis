@@ -1,0 +1,22 @@
+{
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "statsmodels": "0.15.0",
+    "arch": "8.0.0"
+  },
+  "seeds": [
+    41,
+    67,
+    103
+  ],
+  "uncertainty": "delta-method Wald intervals for scenario contrasts; paired 10-observation block-bootstrap for losses",
+  "alternative_lags": {
+    "VIX": "fifth preceding nonmissing market observation, assigned to current date with observed VIX",
+    "GPR": "exactly five calendar days before current return"
+  },
+  "forecasts": "fixed parameters; sequential filtered probabilities, never smoothed",
+  "gpr_limitation": "revised historical values; unverified release timing; pseudo-out-of-sample"
+}

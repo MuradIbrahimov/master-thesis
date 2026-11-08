@@ -1,0 +1,9 @@
+{
+  "successful_starts": 10,
+  "attempted_starts": 10,
+  "chosen_seed": 67,
+  "loglikelihood_spread": 0.006250178607842827,
+  "unavailable_standard_errors": 1,
+  "minimum_transition": 3.322744006630733e-20,
+  "min_occupancy": 0.11237246200389557
+}

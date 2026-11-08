@@ -1,0 +1,4 @@
+experiment,attempted,successful,failures,observed,bootstrap_p,monte_carlo_se,bootstrap_ci95_low,bootstrap_ci95_high,tail_count
+lr_under_m4,120,120,0,8.81296961127,0.00826446280992,0.00823024128483,,,0
+gpr_low_high,120,120,0,0.035698263535,,,0.0168493479361,0.0766902790634,
+vix_high_high,120,120,0,0.193140477534,,,0.106737171889,0.349072453815,

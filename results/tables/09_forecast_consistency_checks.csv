@@ -1,0 +1,15 @@
+period,model,n,max_density_absolute_error,qlike_recomputed,target_return_leakage_check,scaling_check,matched_dates
+validation,B0,999,4.41087166791e-11,2.56472181041,passed: prior filtered posterior predicts next state,passed,passed
+validation,B1,999,1.41096023754e-11,2.4462740283,passed: prior filtered posterior predicts next state,passed,passed
+validation,B1-t,999,7.42428341027e-12,2.44862456592,passed: prior filtered posterior predicts next state,passed,passed
+validation,M1,999,6.35491659295e-12,2.44201762239,passed: prior filtered posterior predicts next state,passed,passed
+validation,M3,999,6.27942142728e-12,2.44782399416,passed: prior filtered posterior predicts next state,passed,passed
+validation,M4,999,5.563549621e-12,2.44204891152,passed: prior filtered posterior predicts next state,passed,passed
+validation,M5,999,6.3886673729e-12,2.44502253669,passed: prior filtered posterior predicts next state,passed,passed
+test,B0,1712,4.65377070213e-10,4.22584946901,passed: prior filtered posterior predicts next state,passed,passed
+test,B1,1712,1.35976563342e-10,2.92516392895,passed: prior filtered posterior predicts next state,passed,passed
+test,B1-t,1712,5.26814147861e-11,2.94424906564,passed: prior filtered posterior predicts next state,passed,passed
+test,M1,1712,4.82430095872e-10,3.4235251857,passed: prior filtered posterior predicts next state,passed,passed
+test,M3,1712,3.20483195537e-10,3.37795135215,passed: prior filtered posterior predicts next state,passed,passed
+test,M4,1712,2.84501311398e-10,3.33641008163,passed: prior filtered posterior predicts next state,passed,passed
+test,M5,1712,2.63810306933e-10,3.33562001255,passed: prior filtered posterior predicts next state,passed,passed

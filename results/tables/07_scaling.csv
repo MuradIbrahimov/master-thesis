@@ -1,0 +1,11 @@
+period,predictor,column,mean,sd,n,fitting_end
+validation,original_gpr,gpr_lag1_calendar_day,105.60850418283617,66.24826861407091,3699,2015-12-31
+validation,vix,vix_lag1_observation,20.598053527980536,8.9824255701255,3699,2015-12-31
+validation,ai_gpr,gpr_ai_lag1_calendar_day,96.5645769126791,41.197774476872176,3699,2015-12-31
+validation,oil_gpr,gpr_oil_lag1_calendar_day,101.73925114895917,110.14694897173511,3699,2015-12-31
+validation,matched_keyword_gpr,gpr_aer_lag1_calendar_day,100.69506082725061,57.93448518156164,3699,2015-12-31
+exploratory_test,original_gpr,gpr_lag1_calendar_day,104.91774701741997,62.06359869977387,4698,2019-12-31
+exploratory_test,vix,vix_lag1_observation,19.342716049382716,8.53450936459385,4698,2019-12-31
+exploratory_test,ai_gpr,gpr_ai_lag1_calendar_day,98.15295019157088,39.43915520554441,4698,2019-12-31
+exploratory_test,oil_gpr,gpr_oil_lag1_calendar_day,99.99160280970627,110.48010892345063,4698,2019-12-31
+exploratory_test,matched_keyword_gpr,gpr_aer_lag1_calendar_day,99.002552149851,55.737479255935284,4698,2019-12-31

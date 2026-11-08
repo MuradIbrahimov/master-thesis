@@ -1,0 +1,25 @@
+Test,Null hypothesis,Test statistic,P-value,Interpretation
+Brent ADF,unit root,-60.0881619,<1e-300 (underflow),Reject unit root
+Brent KPSS,level stationarity,0.3161072065,>=0.10 (table bound),Do not reject level stationarity
+WTI ADF,unit root,-16.29524728,3.31e-29,Reject unit root
+WTI KPSS,level stationarity,0.2706377741,>=0.10 (table bound),Do not reject level stationarity
+"Brent Ljung-Box return, lag 5",no return autocorrelation through lag 5,3.113829966,0.682,Do not reject no autocorrelation
+"Brent Ljung-Box return, lag 10",no return autocorrelation through lag 10,12.52095208,0.252,Do not reject no autocorrelation
+"Brent Ljung-Box return, lag 20",no return autocorrelation through lag 20,26.29190738,0.156,Do not reject no autocorrelation
+"Brent Ljung-Box squared return, lag 5",no squared return autocorrelation through lag 5,224.2622222,1.81e-46,Reject no autocorrelation
+"Brent Ljung-Box squared return, lag 10",no squared return autocorrelation through lag 10,323.9483826,1.33e-63,Reject no autocorrelation
+"Brent Ljung-Box squared return, lag 20",no squared return autocorrelation through lag 20,755.6288411,3.66e-147,Reject no autocorrelation
+"WTI Ljung-Box return, lag 5",no return autocorrelation through lag 5,12.17218366,0.0325,Reject no autocorrelation
+"WTI Ljung-Box return, lag 10",no return autocorrelation through lag 10,23.62386401,0.00866,Reject no autocorrelation
+"WTI Ljung-Box return, lag 20",no return autocorrelation through lag 20,40.3807253,0.00447,Reject no autocorrelation
+"WTI Ljung-Box squared return, lag 5",no squared return autocorrelation through lag 5,391.8403391,1.7e-82,Reject no autocorrelation
+"WTI Ljung-Box squared return, lag 10",no squared return autocorrelation through lag 10,535.7492136,1e-108,Reject no autocorrelation
+"WTI Ljung-Box squared return, lag 20",no squared return autocorrelation through lag 20,871.7929589,7.88e-172,Reject no autocorrelation
+"Brent ARCH-LM, lag 5",no ARCH effects through lag 5,160.870517,6.46e-33,Reject no ARCH effects
+"Brent ARCH-LM, lag 10 (primary)",no ARCH effects through lag 10,186.3926443,1.1e-34,Reject no ARCH effects
+"Brent ARCH-LM, lag 20",no ARCH effects through lag 20,301.4895213,4.01e-52,Reject no ARCH effects
+"WTI ARCH-LM, lag 5",no ARCH effects through lag 5,246.4444311,3.18e-51,Reject no ARCH effects
+"WTI ARCH-LM, lag 10 (primary)",no ARCH effects through lag 10,265.689618,2.71e-51,Reject no ARCH effects
+"WTI ARCH-LM, lag 20",no ARCH effects through lag 20,329.1476835,8.67e-58,Reject no ARCH effects
+Brent Jarque-Bera,normal return distribution,5652.97644,<1e-300 (underflow),Reject normality
+WTI Jarque-Bera,normal return distribution,7835.994001,<1e-300 (underflow),Reject normality

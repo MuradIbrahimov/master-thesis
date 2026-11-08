@@ -1,0 +1,5 @@
+period,predictor,response,n,pearson_r,spearman_rho
+train,previous-calendar-day GPR,absolute Brent return,3699,0.07575845424,0.02224284361
+train,previous-calendar-day GPR,squared Brent return,3699,0.07984570122,0.02224284361
+train,previous-observation VIX,absolute Brent return,3699,0.2448666037,0.1794041822
+train,previous-observation VIX,squared Brent return,3699,0.2159741309,0.1794041822

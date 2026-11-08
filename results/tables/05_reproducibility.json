@@ -1,0 +1,33 @@
+{
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "statsmodels": "0.15.0",
+    "arch": "8.0.0",
+    "matplotlib": "3.11.2"
+  },
+  "seeds": [
+    41,
+    67,
+    103
+  ],
+  "markov_fit_settings": {
+    "em_iter": 8,
+    "search_reps": 6,
+    "search_iter": 8,
+    "maxiter": 300,
+    "disp": false
+  },
+  "bootstrap_seed": 7205,
+  "forecast_method": "fixed parameters; sequential filtered Markov update and GARCH variance recursion",
+  "gpr_limitation": "Historical revised GPR; pseudo-out-of-sample, not verified real-time",
+  "primary_metric": "mean(log(predicted conditional second moment) + return squared / predicted conditional second moment)",
+  "disruption_periods": {
+    "2020": "2020-01-01 through 2020-12-31",
+    "2022": "2022-01-01 through 2022-12-31"
+  },
+  "extreme_cutoff_abs_return_pct": 12.860552262599956,
+  "figure_squared_return_display_cap": "p99 for visibility only; no observations excluded from metrics"
+}

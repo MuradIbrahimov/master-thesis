@@ -1,0 +1,3 @@
+state,label,original_statsmodels_state,mean_pct,variance_pct2,sd_pct,stay_probability,expected_duration_observations,mean_smoothed_occupancy,most_likely_smoothed_days,mean_filtered_occupancy
+0,Low,0,0.1223892507,2.47941238,1.574614994,0.9734172101,37.61832393,0.681861963,2585,0.6880985735
+1,High,1,-0.2325005098,11.89871371,3.449451218,0.9436151955,17.73527477,0.318138037,1114,0.3119014265

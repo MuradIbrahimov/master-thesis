@@ -1,0 +1,13 @@
+oil,series,lags,test_statistic,p_value,p_display,interpretation
+Brent,return,5,3.113829966,0.6824416919,0.682,Do not reject no autocorrelation
+Brent,return,10,12.52095208,0.2517019708,0.252,Do not reject no autocorrelation
+Brent,return,20,26.29190738,0.1563860839,0.156,Do not reject no autocorrelation
+Brent,squared return,5,224.2622222,1.814791661e-46,1.81e-46,Reject no autocorrelation
+Brent,squared return,10,323.9483826,1.33004247e-63,1.33e-63,Reject no autocorrelation
+Brent,squared return,20,755.6288411,3.659887771e-147,3.66e-147,Reject no autocorrelation
+WTI,return,5,12.17218366,0.0325031373,0.0325,Reject no autocorrelation
+WTI,return,10,23.62386401,0.008663874732,0.00866,Reject no autocorrelation
+WTI,return,20,40.3807253,0.004469873284,0.00447,Reject no autocorrelation
+WTI,squared return,5,391.8403391,1.701197651e-82,1.7e-82,Reject no autocorrelation
+WTI,squared return,10,535.7492136,1.003599773e-108,1e-108,Reject no autocorrelation
+WTI,squared return,20,871.7929589,7.875732559e-172,7.88e-172,Reject no autocorrelation

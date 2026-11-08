@@ -1,0 +1,8 @@
+issue,severity,recommended_thesis_text_change,status
+Irregular Brent intervals,Major,Explain source blanks and unlisted weekdays; distinguish observation-step GARCH/Markov clock from calendar time; report exposure sensitivity,Open: add audit findings to methodology and discussion
+Same-day VIX common-case restriction,Moderate,State 85 usable returns were conservatively excluded and show lag-only matched-date sensitivity,Open: annotate sample construction
+Historical GPR availability,Major,Replace real-time predictive language with revised-data pseudo-out-of-sample; state vintages unavailable for 2000–2019,"Open: qualify abstract, results and conclusions"
+Incremental GPR LR,Moderate,Update H4: conditional parametric bootstrap supports in-sample incremental fit; BIC and validation do not support a forecast gain beyond VIX,Open: split in-sample association from prediction
+Transition contrast uncertainty,Moderate,Report bootstrap percentile intervals and failures beside delta intervals; avoid causal wording,Open: update uncertainty paragraph
+WTI paired loss comparison,Moderate,Retain Stage 06 absolute-tail p=.0475 as audit trail; use coherent equal-tail p=.0820 and CI containing zero,Already corrected in Stage 07/08; verify final manuscript
+Stage 07 repeated test,Moderate,Keep later 2020–2026 reuse explicitly exploratory,Already in Stage 08; verify final manuscript

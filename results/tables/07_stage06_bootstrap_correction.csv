@@ -1,0 +1,2 @@
+comparison,n,mean_difference,sign,original_absolute_tail_p,corrected_equal_tail_p_consistent_with_basic_ci,basic_ci95_low,basic_ci95_high,lower_tail_probability,upper_tail_probability,block_length,replications,seed
+WTI test M1 minus M4 QLIKE,1703,0.036959040516658846,positive favors M4,0.047476261869065464,0.08195902048975512,-0.005712166901261834,0.0677686085906198,0.95952023988006,0.04097951024487756,10,2000,7205

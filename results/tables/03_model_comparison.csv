@@ -1,0 +1,5 @@
+model,parameters,training_observations,log_likelihood,aic,bic,converged,chosen_seed
+B0 Gaussian constant variance,2,3699,-8402.731716,16809.46343,16821.89507,True,
+"B1 Gaussian GARCH(1,1)",4,3699,-7943.74985,15895.4997,15920.36297,True,
+M1 Gaussian 2-state Markov,6,3699,-8042.625712,16097.25142,16134.54633,True,67
+M2 Gaussian 3-state Markov,12,3699,-7903.820577,15831.64115,15906.23097,True,41

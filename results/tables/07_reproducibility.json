@@ -1,0 +1,23 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "pandas": "3.0.1",
+  "scipy": "1.18.1",
+  "statsmodels": "0.15.0",
+  "seeds": [
+    41,
+    67,
+    103
+  ],
+  "fit_settings": {
+    "em_iter": 8,
+    "search_reps": 6,
+    "search_iter": 8,
+    "maxiter": 300,
+    "disp": false
+  },
+  "validation_n": 999,
+  "exploratory_test_n": 1712,
+  "historical_reconstruction": "AI-GPR constructed in 2026; no verified historical real-time vintages",
+  "test_status": "exploratory because 2020\u20132026 outcomes were previously examined"
+}

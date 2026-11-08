@@ -1,0 +1,7 @@
+oil,lags,primary_specification,test_statistic,p_value,p_display,interpretation
+Brent,5,False,160.870517,6.456810828e-33,6.46e-33,Reject no ARCH effects
+Brent,10,True,186.3926443,1.100459027e-34,1.1e-34,Reject no ARCH effects
+Brent,20,False,301.4895213,4.011833048e-52,4.01e-52,Reject no ARCH effects
+WTI,5,False,246.4444311,3.183794007e-51,3.18e-51,Reject no ARCH effects
+WTI,10,True,265.689618,2.707536257e-51,2.71e-51,Reject no ARCH effects
+WTI,20,False,329.1476835,8.674367415e-58,8.67e-58,Reject no ARCH effects

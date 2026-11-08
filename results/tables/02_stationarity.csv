@@ -1,0 +1,5 @@
+oil,test,null_hypothesis,test_statistic,p_value,p_display,selected_lags,effective_n,specification,interpretation
+Brent,ADF,unit root,-60.0881619,0,<1e-300 (underflow),0,3749,intercept; AIC among lags 0-20,Reject unit root
+Brent,KPSS,level stationarity,0.3161072065,0.1,>=0.10 (table bound),7,3750,intercept; automatic long-run variance lags,Do not reject level stationarity
+WTI,ADF,unit root,-16.29524728,3.307579693e-29,3.31e-29,12,3620,intercept; AIC among lags 0-20,Reject unit root
+WTI,KPSS,level stationarity,0.2706377741,0.1,>=0.10 (table bound),17,3633,intercept; automatic long-run variance lags,Do not reject level stationarity

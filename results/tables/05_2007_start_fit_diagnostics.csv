@@ -1,0 +1,8 @@
+period,model,n,fitting_start,fitting_end,llf,converged,successful_starts,ll_spread,seed,missing_se,min_variance,min_transition,param_names,alpha_plus_beta,near_integrated,student_t_df
+validation_2007_start,B0,2252,2007-01-03,2015-12-31,-4909.4925484899195,True,1,0.0,,0,4.582481436798429,,mu | sigma2,,,
+validation_2007_start,B1,2252,2007-01-03,2015-12-31,-4533.359758223405,True,1,0.0,,0,0.6473593081226122,,mu | omega | alpha[1] | beta[1],0.9991042867424658,True,
+validation_2007_start,B1-t,2252,2007-01-03,2015-12-31,-4493.510281367538,True,1,0.0,,0,0.674108132904661,,mu | omega | alpha[1] | beta[1] | nu,0.9988649285825596,True,7.229586933971908
+validation_2007_start,M1,2252,2007-01-03,2015-12-31,-4627.545287295142,True,3,3.4275126381544396e-07,67.0,0,1.6494250858459958,0.026486973591063556,p[0->0] | p[1->0] | const[0] | const[1] | sigma2[0] | sigma2[1],,,
+validation_2007_start,M3,2252,2007-01-03,2015-12-31,-4627.528998847116,True,3,2.56498151429696e-06,41.0,0,1.6456393186967364,0.022133753519063187,p[0->0].tvtp0 | p[1->0].tvtp0 | p[0->0].tvtp1 | p[1->0].tvtp1 | const[0] | const[1] | sigma2[0] | sigma2[1],,,
+validation_2007_start,M4,2252,2007-01-03,2015-12-31,-4616.322308402663,True,3,2.6738252927316353e-06,67.0,0,1.7945570678097842,0.001863632510903139,p[0->0].tvtp0 | p[1->0].tvtp0 | p[0->0].tvtp1 | p[1->0].tvtp1 | const[0] | const[1] | sigma2[0] | sigma2[1],,,
+validation_2007_start,M5,2252,2007-01-03,2015-12-31,-4616.278868987956,True,3,3.1062827474670485e-06,103.0,0,1.793668996701469,0.0016614377190869274,p[0->0].tvtp0 | p[1->0].tvtp0 | p[0->0].tvtp1 | p[1->0].tvtp1 | p[0->0].tvtp2 | p[1->0].tvtp2 | const[0] | const[1] | sigma2[0] | sigma2[1],,,
